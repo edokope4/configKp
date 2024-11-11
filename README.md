@@ -4,4 +4,4 @@ Repositorio para ir dejando configuraciones comodas para el uso de distintos pro
 
 ##### Linux
 - Vim (.vimrc)
-
+- Bash Profile
