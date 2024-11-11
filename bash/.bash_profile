@@ -17,3 +17,19 @@ if [ -f .configKp/logoKpAscii.txt ]; then
     echo ""
 fi
 
+# Configuracion de Alias
+alias ls="ls --color"      # pinta la salida de ls
+alias grep="grep --color"  # pinta palabras clave encontradas con grep
+
+alias ls='ls --color=auto' # Colores en ls
+alias ll='ls -alF'         # Lista detallada con símbolos para tipos de archivo
+alias la='ls -A'           # Lista casi todos los archivos (ocultos, pero sin . y ..)
+alias l='ls -lh'           # Listado legible con tamaños
+alias dir='ls -alF'        # Otra forma de listar con colores
+alias llh='ls -lh'         # Listado con tamaños en formato legible
+
+alias cp='cp -i'           # Pide confirmación antes de sobrescribir archivos
+alias mv='mv -i'           # Pide confirmación antes de mover sobrescribiendo
+alias rm='rm -i'           # Pide confirmación antes de eliminar archivos
+alias mkdir='mkdir -pv'    # Crea directorios con subdirectorios y muestra la acción
+alias touch='touch -c'     # No crea un archivo si ya existe
