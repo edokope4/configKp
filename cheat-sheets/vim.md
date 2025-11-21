@@ -1,6 +1,6 @@
 ## Comandos uso común en vim
 
-| comando | Descripción |
+| Comando | Descripción |
 |----|----|
 | :w | Guardar las modificaciones al archivo |
 | :q | Salir de la edición del archivo |
