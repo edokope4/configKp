@@ -12,4 +12,7 @@
 | :tabe . | Abre una nueva pestaña y muestra el listao de archivos para abrir este en una nueva pestaña | 
 | gt | Se mueve hacia la pestaña de la derecha |
 | gT | Se mueve hacia la pestaña de la izquierda |
-
+| yy | Copia una linea |
+| y3<flechaArribaAbajoLados> | Copia la actual + 3 lineas hacia abajo/arriba. El número puede variar |
+| p | Pegar |
+| dd | Eliminar una linea |
