@@ -1,4 +1,4 @@
-## Comandos uso común
+## Comandos uso común en vim
 
 | comando | Descripción |
 |----|----|
