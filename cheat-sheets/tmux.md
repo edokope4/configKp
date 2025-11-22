@@ -13,5 +13,5 @@
 | Ctrl+b + , | Renombra la ventana actual. |
 | Ctrl+b + z | Zoom. Pone la ventana actual pantalla completa, se vuelve de la misma manera. |
 | Ctrl+b + t | Reloj. |
-| Ctrl+b + t | Manda la sesion a segundo plano / detach. |
+| Ctrl+b + d | Manda la sesion a segundo plano / detach. |
 
