@@ -1,5 +1,10 @@
 ## tmux Cheat Sheet
 
+### Opciones Tmux
+|  Comando | Descripción |
+|----|----|
+| 
+
 ### Sesion
 | Secuencia / comando | Descripción |
 |----|----|
@@ -32,6 +37,7 @@
 | Secuencia / comando | Descripción |
 |----|----|
 | Ctrl+b + t | Reloj. |
+| Ctrl+b + : | Para escribir opciones/comando a lo vim. |
 
 
 ----
