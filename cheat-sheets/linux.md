@@ -19,6 +19,14 @@
 | -i | Busca coincidencias sin tomar en cuenta mayúsculas y minúsculas | grep -i "buscar" archivo-o-directorio-a-buscar |
 
 
-#### find
+#### Find
+**find [RUTA_INICIO] [OPCIONES] [ACCIÓN]**
 | Opción | Descripción | Ejemplo |
 |----|----|----|
+| -name "nombre_archivo" | Buscar por nombre exacto | find . -name "archivo.txt" |
+| -iname "nombre_archivo" | Buscar por nombre independiente Mayúsculas y Minúsculas | find /etc -iname "httpd.conf" | 
+| -delete | **¡Advertencia!** Borra directamente todos los archivos encontrados. | find . -name "*.bak" -delete |
+| -type d | Retorna resultado de solo directorios | find . -type d -name "docs" |
+| -type f | Retorna resultado de solo archivos | find . -type f -name "*.log" |
+
+
