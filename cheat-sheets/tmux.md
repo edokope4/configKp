@@ -22,6 +22,8 @@
 |----|----|
 | Ctrl+b + q | Muestra lista de paneles para elegir cuál usar. |
 | Ctrl+b + z | Zoom. Pone la ventana actual pantalla completa, se vuelve de la misma manera. |
+| Ctrl+b + x | Cierra un panel. |
+
 
 ### Window
 | Secuencia / comando | Descripción |
