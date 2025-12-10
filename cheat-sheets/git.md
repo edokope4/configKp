@@ -59,4 +59,10 @@
 ### Tags
 | Comando | Descripción | Ejemplo |
 |----|----|----|
-| git tag | Hace que el TAG apunte a un commit en específico. | git tag nombre-del-tag |
+| git tag | Lista de los tags existentes | git tag |
+| git tag nombre-del-tag | Hace que el TAG apunte a un commit en específico. | git tag v1.0.4 |
+| git push --tags | Sube los tags al servidor | git push origin --tags | 
+| git tag -d | Borrar / Eliminar un tag en local. | tag -d nombre-del-tag |
+| git push --delete | Elimina un tag existente en remoto. | git push origin --delete nombre-del-tag |
+
+
