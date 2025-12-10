@@ -56,4 +56,7 @@
 | git stash | Guarda temporalmente los cambios locales no commiteados para limpiar el directorio. | git stash | 
 | git stash pop | Recupera los cambios guardados con stash y los borra del stash. | git stash pop | 
 
-
+### Tags
+| Comando | Descripción | Ejemplo |
+|----|----|----|
+| git tag | Hace que el TAG apunte a un commit en específico. | git tag nombre-del-tag |
