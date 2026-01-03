@@ -5,7 +5,7 @@
 |----|----|
 | 
 
-### Sesion
+### Sesión
 | Secuencia / comando | Descripción |
 |----|----|
 | tmux | Iniciar sesión. |
@@ -15,6 +15,7 @@
 | Ctrl+b + ? | Muestra la ayuda. | 
 | Ctrl+b + : | Entra en el modo de comandos de tmux. |
 | Ctrl+b + d | Manda la sesion a segundo plano (detach). |
+| Ctrl+b + $ | Cambiar nombre a sesión actual. |
 
 
 ### Paneles
