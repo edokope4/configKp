@@ -35,6 +35,8 @@
 | git pull | Descarga los cambios del remoto y los fusiona (merge) con la rama local. | git pull origin main |
 | git fetch | Descarga los cambios del remoto, pero no los fusiona (útil para inspeccionar). | git fetch origin | 
 | git merge <rama> | Fusiona el historial de una rama en la rama actual. | git merge feature/login |
+| git add -u | Confirmar eliminación de archivos (delete o mv) | |
+
 
 ### Inspección
 | Comando | Descripción | Ejemplo |
